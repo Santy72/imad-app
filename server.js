@@ -17,7 +17,7 @@ app.get('/ui/article-two',function (req ,res) {
     res.send('You asked for article two and there it is !! ');
 });
 
-app.get('/ui/article-third',function (req ,res) {
+app.get('/ui/article-three',function (req ,res) {
     res.send('You asked for article one and take it !! ');
 });
 
