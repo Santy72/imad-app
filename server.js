@@ -18,7 +18,7 @@ app.get('/ui/article-two',function (req ,res) {
 });
 
 app.get('/ui/article-three',function (req ,res) {
-    res.send('You asked for article one and take it !! ');
+    res.send('You asked for article three  , Have it !! ');
 });
 
 app.get('/ui/style.css', function (req, res) {
